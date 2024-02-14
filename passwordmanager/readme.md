@@ -1,3 +1,18 @@
+![Screenshot (7)](https://github.com/NIGASH333/Password-Manager/assets/113447646/872e1e5a-ed85-427c-a8c1-930cd241f48c)
+
+
+![Screenshot (8)](https://github.com/NIGASH333/Password-Manager/assets/113447646/bb1c4738-ab1d-4128-8e27-cb6e6fc10a30)
+
+
+![Screenshot (2)](https://github.com/NIGASH333/Password-Manager/assets/113447646/6c578e8d-6062-4cb1-b5ae-8546159112dd)
+
+
+![Screenshot (5)](https://github.com/NIGASH333/Password-Manager/assets/113447646/68dffd09-6fea-47eb-97d8-df623400d93a)
+
+
+![Screenshot (6)](https://github.com/NIGASH333/Password-Manager/assets/113447646/7311a72c-bbc7-4f51-a522-b789631a3f83)
+
+
 # 🔒 Secure Pass Vault
 
 Secure Pass Vault is a password manager application built using Python and Tkinter. It allows users to securely store and manage their passwords for various accounts.
