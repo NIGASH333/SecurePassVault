@@ -21,32 +21,42 @@ Secure Pass Vault is a password manager application built using Python and Tkint
 
 1. Clone the repository:
 
-```bash
-git clone https://github.com/NIGASH333/secure-pass-vault.git
+    ```bash
+    git clone https://github.com/your_username/secure-pass-vault.git
+    ```
 
-1.Install the required dependencies:
-bash
-pip install mysql-connector-python
+2. Install the required dependencies. Navigate to the project directory and install the dependencies using pip:
 
-1.Run the application:
-bash
-python main. py
+    ```bash
+    cd secure-pass-vault
+    pip install -r requirements.txt
+    ```
 
-Usage
-1.Launch the application.
-2.Log in with your username and password, or create a new account if you're a new user.
-3.Once logged in, you can view, add, update, and delete password records.
-4.Use the search and filter options to find specific records.
-5.Ensure to securely store your master password for accessing the application.
+3. Set up the MySQL database:
+    - Create a MySQL database named `passwords_manager`.
+    - Update the database connection details in the code if necessary.
 
+4. Run the application:
 
-Contributing
-Contributions are welcome! If you find any issues or have suggestions for improvement, feel free to
-open an issue or submit a pull request.
+    ```bash
+    python main.py
+    ```
 
+## Usage
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
+- Upon launching the application, users can log in with their existing credentials or create a new account if they're new users.
+- After logging in, users can add, view, update, or delete password records.
+- The application provides search and filter functionalities to help users manage their passwords efficiently.
+
+## Contributors
+
+- [NIGASH](https://github.com/NIGASH333)
+- [Contributor's Name](https://github.com/contributor_username)
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
 
 
 
