@@ -33,6 +33,7 @@ Secure Pass Vault is a password manager application built using Python and Tkint
 - Python 3.x
 - Tkinter
 - mysql-connector-python library
+- Bcrypt Module 
 
 ## Installation
 
