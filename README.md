@@ -40,7 +40,7 @@ Secure Pass Vault is a password manager application built using Python and Tkint
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your_username/secure-pass-vault.git
+    git clone https://github.com/NIGASH333/secure-pass-vault.git
     ```
 
 2. Install the required dependencies. Navigate to the project directory and install the dependencies using pip:
