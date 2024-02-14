@@ -1,4 +1,4 @@
-# Secure Pass Vault
+# 🔒 Secure Pass Vault
 
 Secure Pass Vault is a password manager application built using Python and Tkinter. It allows users to securely store and manage their passwords for various accounts.
 
@@ -50,14 +50,9 @@ Secure Pass Vault is a password manager application built using Python and Tkint
 
 ## Contributors
 
-- [NIGASH](https://github.com/NIGASH333)
-- [Contributor's Name](https://github.com/contributor_username)
+- [NIGASH](https://github.com/NIGASH333) 🚀
+- [Contributor's Name](https://github.com/contributor_username) 🌟
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
-
-
-
-
-
+This project is licensed under the [MIT License](LICENSE). 📝
