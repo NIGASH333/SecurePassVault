@@ -72,5 +72,5 @@ Secure Pass Vault is a password manager application built using Python and Tkint
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). 📝
+This project is licensed under the [GPL - 3.0 License](LICENSE). 📝
 
